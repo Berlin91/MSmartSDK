@@ -1,0 +1,2 @@
+# MSmartSDK
+MSmartSDK spec
